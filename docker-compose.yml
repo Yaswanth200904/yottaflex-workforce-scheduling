@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  workforce-scheduling:
+    build: .
+    container_name: yottaflex-workforce-intelligence
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped

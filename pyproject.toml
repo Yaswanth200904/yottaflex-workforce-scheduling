@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "yottaflex-workforce-scheduling"
+version = "1.0.0"
+description = "Enterprise Workforce Scheduling & Shift Intelligence Platform"
+authors = [
+    { name = "Marupuri Venkata Yaswanth", email = "marupurivenkata@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.2.0",
+    "numpy>=1.26.0",
+    "pydantic>=2.7.0",
+    "streamlit>=1.35.0",
+    "plotly>=5.22.0",
+    "pytest>=8.2.0",
+    "tabulate>=0.9.0",
+    "rich>=13.7.0"
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = "-v --tb=short"
