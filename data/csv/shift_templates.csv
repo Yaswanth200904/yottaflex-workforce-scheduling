@@ -1,0 +1,4 @@
+shift_template_id,name,start_time,end_time,duration_hours,break_minutes,requires_handover
+TEMPL-001,DAY,07:00:00,15:00:00,8.0,30,True
+TEMPL-002,EVENING,15:00:00,23:00:00,8.0,30,True
+TEMPL-003,NIGHT,23:00:00,07:00:00,8.0,30,True

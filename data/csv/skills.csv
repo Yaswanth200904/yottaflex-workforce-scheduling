@@ -1,0 +1,9 @@
+skill_id,name,category,description
+SKILL-001,Basic Life Support (BLS),CERTIFICATION,Cardiopulmonary resuscitation and airway relief.
+SKILL-002,Advanced Cardiac Life Support (ACLS),CERTIFICATION,"Urgent treatment of cardiac arrest, stroke, and life-threatening emergencies."
+SKILL-003,Critical Care Nursing,CLINICAL,Management of acutely ill patients on mechanical ventilation and vasopressors.
+SKILL-004,Emergency Triage & Assessment,CLINICAL,Rapid classification of patient acuity using Manchester/ESI triage systems.
+SKILL-005,Pediatric Advanced Life Support (PALS),CERTIFICATION,Pediatric emergency resuscitation and airway management.
+SKILL-006,Medication Administration & IV Infusion,CLINICAL,Safe delivery of high-alert medications and central venous catheter care.
+SKILL-007,Charge Nurse & Ward Leadership,LEADERSHIP,"Floor coordination, emergency delegation, bed allocation, and conflict escalation."
+SKILL-008,Trauma & Burn Management,SPECIALIZATION,"Advanced wound debridement, fluid resuscitation, and trauma team integration."

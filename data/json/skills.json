@@ -1,0 +1,50 @@
+[
+  {
+    "skill_id":"SKILL-001",
+    "name":"Basic Life Support (BLS)",
+    "category":"CERTIFICATION",
+    "description":"Cardiopulmonary resuscitation and airway relief."
+  },
+  {
+    "skill_id":"SKILL-002",
+    "name":"Advanced Cardiac Life Support (ACLS)",
+    "category":"CERTIFICATION",
+    "description":"Urgent treatment of cardiac arrest, stroke, and life-threatening emergencies."
+  },
+  {
+    "skill_id":"SKILL-003",
+    "name":"Critical Care Nursing",
+    "category":"CLINICAL",
+    "description":"Management of acutely ill patients on mechanical ventilation and vasopressors."
+  },
+  {
+    "skill_id":"SKILL-004",
+    "name":"Emergency Triage & Assessment",
+    "category":"CLINICAL",
+    "description":"Rapid classification of patient acuity using Manchester\/ESI triage systems."
+  },
+  {
+    "skill_id":"SKILL-005",
+    "name":"Pediatric Advanced Life Support (PALS)",
+    "category":"CERTIFICATION",
+    "description":"Pediatric emergency resuscitation and airway management."
+  },
+  {
+    "skill_id":"SKILL-006",
+    "name":"Medication Administration & IV Infusion",
+    "category":"CLINICAL",
+    "description":"Safe delivery of high-alert medications and central venous catheter care."
+  },
+  {
+    "skill_id":"SKILL-007",
+    "name":"Charge Nurse & Ward Leadership",
+    "category":"LEADERSHIP",
+    "description":"Floor coordination, emergency delegation, bed allocation, and conflict escalation."
+  },
+  {
+    "skill_id":"SKILL-008",
+    "name":"Trauma & Burn Management",
+    "category":"SPECIALIZATION",
+    "description":"Advanced wound debridement, fluid resuscitation, and trauma team integration."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "shift_template_id":"TEMPL-001",
+    "name":"DAY",
+    "start_time":"07:00:00",
+    "end_time":"15:00:00",
+    "duration_hours":8.0,
+    "break_minutes":30,
+    "requires_handover":true
+  },
+  {
+    "shift_template_id":"TEMPL-002",
+    "name":"EVENING",
+    "start_time":"15:00:00",
+    "end_time":"23:00:00",
+    "duration_hours":8.0,
+    "break_minutes":30,
+    "requires_handover":true
+  },
+  {
+    "shift_template_id":"TEMPL-003",
+    "name":"NIGHT",
+    "start_time":"23:00:00",
+    "end_time":"07:00:00",
+    "duration_hours":8.0,
+    "break_minutes":30,
+    "requires_handover":true
+  }
+]

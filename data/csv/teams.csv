@@ -1,0 +1,6 @@
+team_id,name,department,manager_emp_id,timezone,created_at
+TEAM-0001,Intensive Care Unit (ICU),Critical Care,EMP-000008,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0002,Emergency Department (ED),Emergency,EMP-000015,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0003,Surgical Ward A,Surgical,EMP-000022,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0004,Surgical Ward B,Surgical,EMP-000029,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0005,Oncology Inpatient Ward,Inpatient,EMP-000036,Asia/Kolkata,2025-12-01T00:00:00

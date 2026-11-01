@@ -1,0 +1,50 @@
+[
+  {
+    "holiday_id":"HOL-2026-001",
+    "date":"2026-01-01",
+    "name":"New Year's Day",
+    "jurisdiction":"IN-TS",
+    "is_mandatory_off":false,
+    "premium_pay_multiplier":1.5
+  },
+  {
+    "holiday_id":"HOL-2026-002",
+    "date":"2026-01-14",
+    "name":"Makar Sankranti \/ Pongal",
+    "jurisdiction":"IN-TS",
+    "is_mandatory_off":false,
+    "premium_pay_multiplier":1.5
+  },
+  {
+    "holiday_id":"HOL-2026-003",
+    "date":"2026-01-26",
+    "name":"Republic Day",
+    "jurisdiction":"IN-TS",
+    "is_mandatory_off":false,
+    "premium_pay_multiplier":2.0
+  },
+  {
+    "holiday_id":"HOL-2026-004",
+    "date":"2026-03-04",
+    "name":"Holi Festival",
+    "jurisdiction":"IN-TS",
+    "is_mandatory_off":false,
+    "premium_pay_multiplier":1.5
+  },
+  {
+    "holiday_id":"HOL-2026-005",
+    "date":"2026-03-20",
+    "name":"Ugadi \/ Gudi Padwa",
+    "jurisdiction":"IN-TS",
+    "is_mandatory_off":false,
+    "premium_pay_multiplier":1.5
+  },
+  {
+    "holiday_id":"HOL-2026-006",
+    "date":"2026-05-01",
+    "name":"International Workers' Day",
+    "jurisdiction":"IN-TS",
+    "is_mandatory_off":false,
+    "premium_pay_multiplier":2.0
+  }
+]
