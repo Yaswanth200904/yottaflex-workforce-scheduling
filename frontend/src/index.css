@@ -1,0 +1,115 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'Heebo', ui-sans-serif, system-ui, -apple-system, sans-serif;
+
+  --color-ink: #11296b;
+  --color-canvas: #ededed;
+  --color-surface: #ffffff;
+
+  --color-primary: #00509d;
+  --color-primary-strong: #00427f;
+  --color-hover: #f7f9fc;
+  --color-row-hover: #f4f6fa;
+
+  --color-danger: #c42847;
+  --color-caution: #d97a0a;
+  --color-caution-ink: #a05a00;
+  --color-pending: #ffcb05;
+  --color-positive: #1f7a4d;
+  --color-online: #41c48a;
+
+  --color-day: #dce8f7;
+  --color-day-ink: #12406f;
+  --color-evening: #fbeccb;
+  --color-evening-ink: #8a5a00;
+  --color-night: #e7e3f8;
+  --color-night-ink: #3f2f86;
+  --color-leave: #ededed;
+  --color-leave-ink: #5a6478;
+
+  --radius-panel: 10px;
+  --radius-control: 8px;
+
+  --shadow-panel: 0 12px 32px -16px rgb(17 41 107 / 0.28);
+}
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+
+  body {
+    margin: 0;
+    background-color: var(--color-canvas);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+  }
+
+  /* One rule keeps the pointer affordance consistent across the product. */
+  button,
+  a[href],
+  [role='button'],
+  [role='tab'],
+  [role='menuitem'],
+  [data-clickable='true'] {
+    cursor: pointer;
+  }
+
+  button:disabled,
+  [aria-disabled='true'] {
+    cursor: not-allowed;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.001ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.001ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer utilities {
+  .panel {
+    background-color: var(--color-surface);
+    border-radius: var(--radius-panel);
+  }
+
+  .scrollbar-slim {
+    scrollbar-width: thin;
+    scrollbar-color: rgb(17 41 107 / 0.22) transparent;
+  }
+
+  .scrollbar-slim::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+
+  .scrollbar-slim::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .scrollbar-slim::-webkit-scrollbar-thumb {
+    background-color: rgb(17 41 107 / 0.22);
+    border-radius: 999px;
+  }
+}
