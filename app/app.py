@@ -235,7 +235,7 @@ with st.sidebar:
     st.markdown("### 📋 Challenge Artifacts")
     st.markdown("• [Architecture Documentation](sandbox:/ARCHITECTURE.md)")
     st.markdown("• [Data Dictionary](sandbox:/DATA_DICTIONARY.md)")
-    st.markdown("• [Interview Walkthrough](sandbox:/INTERVIEW_WALKTHROUGH.md)")
+    st.markdown("• [Design System](sandbox:/DESIGN.md)")
 
 
 # Detect Exceptions using current session state

@@ -188,7 +188,6 @@ yottaflex-workforce-scheduling/
 ├── DATA_DICTIONARY.md             # Step 1 exhaustive field-level specification
 ├── DECISION_LOG.md                # Architecture Decision Records (ADRs)
 ├── DESIGN.md                      # UI/UX design tokens and algorithm trade-offs
-├── INTERVIEW_WALKTHROUGH.md       # Candidate defense guide & oral walkthrough
 ├── PROMPT_HISTORY.md              # Transparent AI disclosure (Guideline 03)
 ├── Dockerfile                     # Containerization build recipe
 ├── docker-compose.yml             # Single-command orchestration
