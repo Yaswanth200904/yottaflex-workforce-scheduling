@@ -73,6 +73,23 @@ def main():
     evaluator = SchedulingMetricsEvaluator(data)
     metrics = evaluator.compute_all_metrics()
 
+    # 5. Persist Processed Intelligence Artifacts
+    proc_dir = os.path.join("data", "processed")
+    os.makedirs(proc_dir, exist_ok=True)
+    
+    if not detection_res["exceptions"].empty:
+        detection_res["exceptions"].to_csv(os.path.join(proc_dir, "quarantined_exceptions.csv"), index=False)
+    if not rec_res["reconciled_records"].empty:
+        rec_res["reconciled_records"].to_csv(os.path.join(proc_dir, "reconciled_attendance.csv"), index=False)
+    if "shift_assignments" in data:
+        data["shift_assignments"].to_csv(os.path.join(proc_dir, "active_published_roster.csv"), index=False)
+    if "audit_events" in data:
+        data["audit_events"].to_csv(os.path.join(proc_dir, "audit_events.csv"), index=False)
+
+    with open(os.path.join(proc_dir, "executive_metrics.json"), "w", encoding="utf-8") as f:
+        import json
+        json.dump(metrics, f, indent=2)
+
     kpi_rows = [
         ["Coverage Fulfillment Rate", f"{metrics['coverage']['fulfillment_rate']*100:.1f}%"],
         ["Workload Fairness Gini Index", f"{metrics['fairness']['gini_index']:.4f} (0 = perfectly equal)"],
@@ -84,7 +101,8 @@ def main():
     ]
 
     print("\n" + tabulate(kpi_rows, headers=["Evaluation Dimension", "Metric Value"], tablefmt="rounded_grid"))
-    print("\n✓ Pipeline Execution Completed Successfully!\n")
+    print(f"\n✓ Processed pipeline artifacts written to '{proc_dir}'")
+    print("✓ Pipeline Execution Completed Successfully!\n")
 
 
 if __name__ == "__main__":

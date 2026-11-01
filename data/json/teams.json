@@ -1,7 +1,7 @@
 [
   {
     "team_id":"TEAM-0001",
-    "name":"Intensive Care Unit (ICU)",
+    "name":"Intensive Care Unit (ICU) 1",
     "department":"Critical Care",
     "manager_emp_id":"EMP-000008",
     "timezone":"Asia\/Kolkata",
@@ -9,7 +9,7 @@
   },
   {
     "team_id":"TEAM-0002",
-    "name":"Emergency Department (ED)",
+    "name":"Emergency Department (ED) 1",
     "department":"Emergency",
     "manager_emp_id":"EMP-000015",
     "timezone":"Asia\/Kolkata",
@@ -17,7 +17,7 @@
   },
   {
     "team_id":"TEAM-0003",
-    "name":"Surgical Ward A",
+    "name":"Surgical Ward A 1",
     "department":"Surgical",
     "manager_emp_id":"EMP-000022",
     "timezone":"Asia\/Kolkata",
@@ -25,7 +25,7 @@
   },
   {
     "team_id":"TEAM-0004",
-    "name":"Surgical Ward B",
+    "name":"Surgical Ward B 1",
     "department":"Surgical",
     "manager_emp_id":"EMP-000029",
     "timezone":"Asia\/Kolkata",
@@ -33,9 +33,769 @@
   },
   {
     "team_id":"TEAM-0005",
-    "name":"Oncology Inpatient Ward",
+    "name":"Oncology Inpatient Ward 1",
     "department":"Inpatient",
     "manager_emp_id":"EMP-000036",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0006",
+    "name":"Cardiology Telemetry Ward 1",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000043",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0007",
+    "name":"Pediatric Care Unit 1",
+    "department":"Pediatrics",
+    "manager_emp_id":"EMP-000050",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0008",
+    "name":"Neonatal ICU (NICU) 1",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000057",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0009",
+    "name":"Orthopedic & Trauma Ward 1",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000064",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0010",
+    "name":"Neurology & Stroke Center 1",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000071",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0011",
+    "name":"Intensive Care Unit (ICU) 2",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000078",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0012",
+    "name":"Emergency Department (ED) 2",
+    "department":"Emergency",
+    "manager_emp_id":"EMP-000085",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0013",
+    "name":"Surgical Ward A 2",
+    "department":"Surgical",
+    "manager_emp_id":"EMP-000092",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0014",
+    "name":"Surgical Ward B 2",
+    "department":"Surgical",
+    "manager_emp_id":"EMP-000099",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0015",
+    "name":"Oncology Inpatient Ward 2",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000106",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0016",
+    "name":"Cardiology Telemetry Ward 2",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000113",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0017",
+    "name":"Pediatric Care Unit 2",
+    "department":"Pediatrics",
+    "manager_emp_id":"EMP-000120",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0018",
+    "name":"Neonatal ICU (NICU) 2",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000127",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0019",
+    "name":"Orthopedic & Trauma Ward 2",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000134",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0020",
+    "name":"Neurology & Stroke Center 2",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000141",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0021",
+    "name":"Intensive Care Unit (ICU) 3",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000148",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0022",
+    "name":"Emergency Department (ED) 3",
+    "department":"Emergency",
+    "manager_emp_id":"EMP-000155",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0023",
+    "name":"Surgical Ward A 3",
+    "department":"Surgical",
+    "manager_emp_id":"EMP-000162",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0024",
+    "name":"Surgical Ward B 3",
+    "department":"Surgical",
+    "manager_emp_id":"EMP-000169",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0025",
+    "name":"Oncology Inpatient Ward 3",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000176",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0026",
+    "name":"Cardiology Telemetry Ward 3",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000183",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0027",
+    "name":"Pediatric Care Unit 3",
+    "department":"Pediatrics",
+    "manager_emp_id":"EMP-000190",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0028",
+    "name":"Neonatal ICU (NICU) 3",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000197",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0029",
+    "name":"Orthopedic & Trauma Ward 3",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000204",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0030",
+    "name":"Neurology & Stroke Center 3",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000211",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0031",
+    "name":"Intensive Care Unit (ICU) 4",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000218",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0032",
+    "name":"Emergency Department (ED) 4",
+    "department":"Emergency",
+    "manager_emp_id":"EMP-000225",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0033",
+    "name":"Surgical Ward A 4",
+    "department":"Surgical",
+    "manager_emp_id":"EMP-000232",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0034",
+    "name":"Surgical Ward B 4",
+    "department":"Surgical",
+    "manager_emp_id":"EMP-000239",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0035",
+    "name":"Oncology Inpatient Ward 4",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000246",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0036",
+    "name":"Cardiology Telemetry Ward 4",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000253",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0037",
+    "name":"Pediatric Care Unit 4",
+    "department":"Pediatrics",
+    "manager_emp_id":"EMP-000260",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0038",
+    "name":"Neonatal ICU (NICU) 4",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000267",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0039",
+    "name":"Orthopedic & Trauma Ward 4",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000274",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0040",
+    "name":"Neurology & Stroke Center 4",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000281",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0041",
+    "name":"Intensive Care Unit (ICU) 5",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000288",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0042",
+    "name":"Emergency Department (ED) 5",
+    "department":"Emergency",
+    "manager_emp_id":"EMP-000295",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0043",
+    "name":"Surgical Ward A 5",
+    "department":"Surgical",
+    "manager_emp_id":"EMP-000302",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0044",
+    "name":"Surgical Ward B 5",
+    "department":"Surgical",
+    "manager_emp_id":"EMP-000309",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0045",
+    "name":"Oncology Inpatient Ward 5",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000316",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0046",
+    "name":"Cardiology Telemetry Ward 5",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000323",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0047",
+    "name":"Pediatric Care Unit 5",
+    "department":"Pediatrics",
+    "manager_emp_id":"EMP-000330",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0048",
+    "name":"Neonatal ICU (NICU) 5",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000337",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0049",
+    "name":"Orthopedic & Trauma Ward 5",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000344",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0050",
+    "name":"Neurology & Stroke Center 5",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000351",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0051",
+    "name":"Intensive Care Unit (ICU) 6",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000358",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0052",
+    "name":"Emergency Department (ED) 6",
+    "department":"Emergency",
+    "manager_emp_id":"EMP-000365",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0053",
+    "name":"Surgical Ward A 6",
+    "department":"Surgical",
+    "manager_emp_id":"EMP-000372",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0054",
+    "name":"Surgical Ward B 6",
+    "department":"Surgical",
+    "manager_emp_id":"EMP-000379",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0055",
+    "name":"Oncology Inpatient Ward 6",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000386",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0056",
+    "name":"Cardiology Telemetry Ward 6",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000393",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0057",
+    "name":"Pediatric Care Unit 6",
+    "department":"Pediatrics",
+    "manager_emp_id":"EMP-000400",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0058",
+    "name":"Neonatal ICU (NICU) 6",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000407",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0059",
+    "name":"Orthopedic & Trauma Ward 6",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000414",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0060",
+    "name":"Neurology & Stroke Center 6",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000421",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0061",
+    "name":"Intensive Care Unit (ICU) 7",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000428",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0062",
+    "name":"Emergency Department (ED) 7",
+    "department":"Emergency",
+    "manager_emp_id":"EMP-000435",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0063",
+    "name":"Surgical Ward A 7",
+    "department":"Surgical",
+    "manager_emp_id":"EMP-000442",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0064",
+    "name":"Surgical Ward B 7",
+    "department":"Surgical",
+    "manager_emp_id":"EMP-000449",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0065",
+    "name":"Oncology Inpatient Ward 7",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000456",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0066",
+    "name":"Cardiology Telemetry Ward 7",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000463",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0067",
+    "name":"Pediatric Care Unit 7",
+    "department":"Pediatrics",
+    "manager_emp_id":"EMP-000470",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0068",
+    "name":"Neonatal ICU (NICU) 7",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000477",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0069",
+    "name":"Orthopedic & Trauma Ward 7",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000484",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0070",
+    "name":"Neurology & Stroke Center 7",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000491",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0071",
+    "name":"Intensive Care Unit (ICU) 8",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000498",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0072",
+    "name":"Emergency Department (ED) 8",
+    "department":"Emergency",
+    "manager_emp_id":"EMP-000505",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0073",
+    "name":"Surgical Ward A 8",
+    "department":"Surgical",
+    "manager_emp_id":"EMP-000512",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0074",
+    "name":"Surgical Ward B 8",
+    "department":"Surgical",
+    "manager_emp_id":"EMP-000519",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0075",
+    "name":"Oncology Inpatient Ward 8",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000526",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0076",
+    "name":"Cardiology Telemetry Ward 8",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000533",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0077",
+    "name":"Pediatric Care Unit 8",
+    "department":"Pediatrics",
+    "manager_emp_id":"EMP-000540",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0078",
+    "name":"Neonatal ICU (NICU) 8",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000547",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0079",
+    "name":"Orthopedic & Trauma Ward 8",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000554",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0080",
+    "name":"Neurology & Stroke Center 8",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000561",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0081",
+    "name":"Intensive Care Unit (ICU) 9",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000568",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0082",
+    "name":"Emergency Department (ED) 9",
+    "department":"Emergency",
+    "manager_emp_id":"EMP-000575",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0083",
+    "name":"Surgical Ward A 9",
+    "department":"Surgical",
+    "manager_emp_id":"EMP-000582",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0084",
+    "name":"Surgical Ward B 9",
+    "department":"Surgical",
+    "manager_emp_id":"EMP-000589",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0085",
+    "name":"Oncology Inpatient Ward 9",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000596",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0086",
+    "name":"Cardiology Telemetry Ward 9",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000603",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0087",
+    "name":"Pediatric Care Unit 9",
+    "department":"Pediatrics",
+    "manager_emp_id":"EMP-000610",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0088",
+    "name":"Neonatal ICU (NICU) 9",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000617",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0089",
+    "name":"Orthopedic & Trauma Ward 9",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000624",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0090",
+    "name":"Neurology & Stroke Center 9",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000631",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0091",
+    "name":"Intensive Care Unit (ICU) 10",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000638",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0092",
+    "name":"Emergency Department (ED) 10",
+    "department":"Emergency",
+    "manager_emp_id":"EMP-000645",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0093",
+    "name":"Surgical Ward A 10",
+    "department":"Surgical",
+    "manager_emp_id":"EMP-000652",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0094",
+    "name":"Surgical Ward B 10",
+    "department":"Surgical",
+    "manager_emp_id":"EMP-000659",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0095",
+    "name":"Oncology Inpatient Ward 10",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000666",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0096",
+    "name":"Cardiology Telemetry Ward 10",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000673",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0097",
+    "name":"Pediatric Care Unit 10",
+    "department":"Pediatrics",
+    "manager_emp_id":"EMP-000680",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0098",
+    "name":"Neonatal ICU (NICU) 10",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000687",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0099",
+    "name":"Orthopedic & Trauma Ward 10",
+    "department":"Inpatient",
+    "manager_emp_id":"EMP-000694",
+    "timezone":"Asia\/Kolkata",
+    "created_at":"2025-12-01T00:00:00"
+  },
+  {
+    "team_id":"TEAM-0100",
+    "name":"Neurology & Stroke Center 10",
+    "department":"Critical Care",
+    "manager_emp_id":"EMP-000701",
     "timezone":"Asia\/Kolkata",
     "created_at":"2025-12-01T00:00:00"
   }

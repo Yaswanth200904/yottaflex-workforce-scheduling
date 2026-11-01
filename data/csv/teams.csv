@@ -1,6 +1,101 @@
 team_id,name,department,manager_emp_id,timezone,created_at
-TEAM-0001,Intensive Care Unit (ICU),Critical Care,EMP-000008,Asia/Kolkata,2025-12-01T00:00:00
-TEAM-0002,Emergency Department (ED),Emergency,EMP-000015,Asia/Kolkata,2025-12-01T00:00:00
-TEAM-0003,Surgical Ward A,Surgical,EMP-000022,Asia/Kolkata,2025-12-01T00:00:00
-TEAM-0004,Surgical Ward B,Surgical,EMP-000029,Asia/Kolkata,2025-12-01T00:00:00
-TEAM-0005,Oncology Inpatient Ward,Inpatient,EMP-000036,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0001,Intensive Care Unit (ICU) 1,Critical Care,EMP-000008,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0002,Emergency Department (ED) 1,Emergency,EMP-000015,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0003,Surgical Ward A 1,Surgical,EMP-000022,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0004,Surgical Ward B 1,Surgical,EMP-000029,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0005,Oncology Inpatient Ward 1,Inpatient,EMP-000036,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0006,Cardiology Telemetry Ward 1,Inpatient,EMP-000043,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0007,Pediatric Care Unit 1,Pediatrics,EMP-000050,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0008,Neonatal ICU (NICU) 1,Critical Care,EMP-000057,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0009,Orthopedic & Trauma Ward 1,Inpatient,EMP-000064,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0010,Neurology & Stroke Center 1,Critical Care,EMP-000071,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0011,Intensive Care Unit (ICU) 2,Critical Care,EMP-000078,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0012,Emergency Department (ED) 2,Emergency,EMP-000085,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0013,Surgical Ward A 2,Surgical,EMP-000092,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0014,Surgical Ward B 2,Surgical,EMP-000099,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0015,Oncology Inpatient Ward 2,Inpatient,EMP-000106,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0016,Cardiology Telemetry Ward 2,Inpatient,EMP-000113,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0017,Pediatric Care Unit 2,Pediatrics,EMP-000120,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0018,Neonatal ICU (NICU) 2,Critical Care,EMP-000127,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0019,Orthopedic & Trauma Ward 2,Inpatient,EMP-000134,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0020,Neurology & Stroke Center 2,Critical Care,EMP-000141,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0021,Intensive Care Unit (ICU) 3,Critical Care,EMP-000148,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0022,Emergency Department (ED) 3,Emergency,EMP-000155,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0023,Surgical Ward A 3,Surgical,EMP-000162,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0024,Surgical Ward B 3,Surgical,EMP-000169,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0025,Oncology Inpatient Ward 3,Inpatient,EMP-000176,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0026,Cardiology Telemetry Ward 3,Inpatient,EMP-000183,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0027,Pediatric Care Unit 3,Pediatrics,EMP-000190,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0028,Neonatal ICU (NICU) 3,Critical Care,EMP-000197,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0029,Orthopedic & Trauma Ward 3,Inpatient,EMP-000204,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0030,Neurology & Stroke Center 3,Critical Care,EMP-000211,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0031,Intensive Care Unit (ICU) 4,Critical Care,EMP-000218,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0032,Emergency Department (ED) 4,Emergency,EMP-000225,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0033,Surgical Ward A 4,Surgical,EMP-000232,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0034,Surgical Ward B 4,Surgical,EMP-000239,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0035,Oncology Inpatient Ward 4,Inpatient,EMP-000246,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0036,Cardiology Telemetry Ward 4,Inpatient,EMP-000253,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0037,Pediatric Care Unit 4,Pediatrics,EMP-000260,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0038,Neonatal ICU (NICU) 4,Critical Care,EMP-000267,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0039,Orthopedic & Trauma Ward 4,Inpatient,EMP-000274,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0040,Neurology & Stroke Center 4,Critical Care,EMP-000281,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0041,Intensive Care Unit (ICU) 5,Critical Care,EMP-000288,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0042,Emergency Department (ED) 5,Emergency,EMP-000295,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0043,Surgical Ward A 5,Surgical,EMP-000302,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0044,Surgical Ward B 5,Surgical,EMP-000309,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0045,Oncology Inpatient Ward 5,Inpatient,EMP-000316,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0046,Cardiology Telemetry Ward 5,Inpatient,EMP-000323,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0047,Pediatric Care Unit 5,Pediatrics,EMP-000330,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0048,Neonatal ICU (NICU) 5,Critical Care,EMP-000337,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0049,Orthopedic & Trauma Ward 5,Inpatient,EMP-000344,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0050,Neurology & Stroke Center 5,Critical Care,EMP-000351,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0051,Intensive Care Unit (ICU) 6,Critical Care,EMP-000358,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0052,Emergency Department (ED) 6,Emergency,EMP-000365,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0053,Surgical Ward A 6,Surgical,EMP-000372,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0054,Surgical Ward B 6,Surgical,EMP-000379,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0055,Oncology Inpatient Ward 6,Inpatient,EMP-000386,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0056,Cardiology Telemetry Ward 6,Inpatient,EMP-000393,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0057,Pediatric Care Unit 6,Pediatrics,EMP-000400,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0058,Neonatal ICU (NICU) 6,Critical Care,EMP-000407,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0059,Orthopedic & Trauma Ward 6,Inpatient,EMP-000414,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0060,Neurology & Stroke Center 6,Critical Care,EMP-000421,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0061,Intensive Care Unit (ICU) 7,Critical Care,EMP-000428,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0062,Emergency Department (ED) 7,Emergency,EMP-000435,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0063,Surgical Ward A 7,Surgical,EMP-000442,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0064,Surgical Ward B 7,Surgical,EMP-000449,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0065,Oncology Inpatient Ward 7,Inpatient,EMP-000456,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0066,Cardiology Telemetry Ward 7,Inpatient,EMP-000463,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0067,Pediatric Care Unit 7,Pediatrics,EMP-000470,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0068,Neonatal ICU (NICU) 7,Critical Care,EMP-000477,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0069,Orthopedic & Trauma Ward 7,Inpatient,EMP-000484,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0070,Neurology & Stroke Center 7,Critical Care,EMP-000491,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0071,Intensive Care Unit (ICU) 8,Critical Care,EMP-000498,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0072,Emergency Department (ED) 8,Emergency,EMP-000505,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0073,Surgical Ward A 8,Surgical,EMP-000512,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0074,Surgical Ward B 8,Surgical,EMP-000519,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0075,Oncology Inpatient Ward 8,Inpatient,EMP-000526,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0076,Cardiology Telemetry Ward 8,Inpatient,EMP-000533,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0077,Pediatric Care Unit 8,Pediatrics,EMP-000540,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0078,Neonatal ICU (NICU) 8,Critical Care,EMP-000547,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0079,Orthopedic & Trauma Ward 8,Inpatient,EMP-000554,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0080,Neurology & Stroke Center 8,Critical Care,EMP-000561,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0081,Intensive Care Unit (ICU) 9,Critical Care,EMP-000568,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0082,Emergency Department (ED) 9,Emergency,EMP-000575,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0083,Surgical Ward A 9,Surgical,EMP-000582,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0084,Surgical Ward B 9,Surgical,EMP-000589,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0085,Oncology Inpatient Ward 9,Inpatient,EMP-000596,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0086,Cardiology Telemetry Ward 9,Inpatient,EMP-000603,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0087,Pediatric Care Unit 9,Pediatrics,EMP-000610,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0088,Neonatal ICU (NICU) 9,Critical Care,EMP-000617,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0089,Orthopedic & Trauma Ward 9,Inpatient,EMP-000624,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0090,Neurology & Stroke Center 9,Critical Care,EMP-000631,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0091,Intensive Care Unit (ICU) 10,Critical Care,EMP-000638,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0092,Emergency Department (ED) 10,Emergency,EMP-000645,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0093,Surgical Ward A 10,Surgical,EMP-000652,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0094,Surgical Ward B 10,Surgical,EMP-000659,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0095,Oncology Inpatient Ward 10,Inpatient,EMP-000666,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0096,Cardiology Telemetry Ward 10,Inpatient,EMP-000673,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0097,Pediatric Care Unit 10,Pediatrics,EMP-000680,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0098,Neonatal ICU (NICU) 10,Critical Care,EMP-000687,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0099,Orthopedic & Trauma Ward 10,Inpatient,EMP-000694,Asia/Kolkata,2025-12-01T00:00:00
+TEAM-0100,Neurology & Stroke Center 10,Critical Care,EMP-000701,Asia/Kolkata,2025-12-01T00:00:00

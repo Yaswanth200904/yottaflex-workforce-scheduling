@@ -9,7 +9,7 @@
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
     "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000006 on 2026-01-01."
+    "details":"Automated shift schedule published for EMP-000101 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000002",
@@ -33,7 +33,7 @@
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
     "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000016 on 2026-01-01."
+    "details":"Automated shift schedule published for EMP-000301 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000004",
@@ -45,7 +45,7 @@
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
     "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000011 on 2026-01-01."
+    "details":"Automated shift schedule published for EMP-000201 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000005",
@@ -57,7 +57,7 @@
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
     "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000002 on 2026-01-01."
+    "details":"Automated shift schedule published for EMP-000501 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000006",
@@ -69,7 +69,7 @@
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
     "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000021 on 2026-01-01."
+    "details":"Automated shift schedule published for EMP-000401 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000007",
@@ -81,7 +81,7 @@
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
     "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000012 on 2026-01-01."
+    "details":"Automated shift schedule published for EMP-000701 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000008",
@@ -93,7 +93,7 @@
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
     "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000007 on 2026-01-01."
+    "details":"Automated shift schedule published for EMP-000601 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000009",
@@ -105,7 +105,7 @@
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
     "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000022 on 2026-01-01."
+    "details":"Automated shift schedule published for EMP-000102 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000010",
@@ -117,7 +117,7 @@
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
     "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000017 on 2026-01-01."
+    "details":"Automated shift schedule published for EMP-000002 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000011",
@@ -125,11 +125,11 @@
     "entity_id":"SHIFT-2026-01-01-A-000011",
     "action":"CREATE",
     "from_state":null,
-    "to_state":"SCHEDULED",
+    "to_state":"SWAPPED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
     "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000003 on 2026-01-01."
+    "details":"Automated shift schedule published for EMP-000302 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000012",
@@ -137,11 +137,11 @@
     "entity_id":"SHIFT-2026-01-01-A-000012",
     "action":"CREATE",
     "from_state":null,
-    "to_state":"SCHEDULED",
+    "to_state":"SWAPPED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
     "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000008 on 2026-01-01."
+    "details":"Automated shift schedule published for EMP-000202 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000013",
@@ -149,11 +149,11 @@
     "entity_id":"SHIFT-2026-01-01-A-000013",
     "action":"CREATE",
     "from_state":null,
-    "to_state":"SCHEDULED",
+    "to_state":"SWAPPED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
     "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000013 on 2026-01-01."
+    "details":"Automated shift schedule published for EMP-000502 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000014",
@@ -161,11 +161,11 @@
     "entity_id":"SHIFT-2026-01-01-A-000014",
     "action":"CREATE",
     "from_state":null,
-    "to_state":"SCHEDULED",
+    "to_state":"SWAPPED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
     "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000018 on 2026-01-01."
+    "details":"Automated shift schedule published for EMP-000402 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000015",
@@ -173,11 +173,11 @@
     "entity_id":"SHIFT-2026-01-01-A-000015",
     "action":"CREATE",
     "from_state":null,
-    "to_state":"SCHEDULED",
+    "to_state":"SWAPPED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
     "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000023 on 2026-01-01."
+    "details":"Automated shift schedule published for EMP-000702 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000016",
@@ -185,11 +185,11 @@
     "entity_id":"SHIFT-2026-01-01-A-000016",
     "action":"CREATE",
     "from_state":null,
-    "to_state":"SCHEDULED",
+    "to_state":"SWAPPED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
     "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000004 on 2026-01-01."
+    "details":"Automated shift schedule published for EMP-000602 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000017",
@@ -197,11 +197,11 @@
     "entity_id":"SHIFT-2026-01-01-A-000017",
     "action":"CREATE",
     "from_state":null,
-    "to_state":"SCHEDULED",
+    "to_state":"SWAPPED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
     "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000009 on 2026-01-01."
+    "details":"Automated shift schedule published for EMP-000103 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000018",
@@ -209,11 +209,11 @@
     "entity_id":"SHIFT-2026-01-01-A-000018",
     "action":"CREATE",
     "from_state":null,
-    "to_state":"SCHEDULED",
+    "to_state":"SWAPPED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
     "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000014 on 2026-01-01."
+    "details":"Automated shift schedule published for EMP-000003 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000019",
@@ -221,11 +221,11 @@
     "entity_id":"SHIFT-2026-01-01-A-000019",
     "action":"CREATE",
     "from_state":null,
-    "to_state":"SCHEDULED",
+    "to_state":"SWAPPED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
     "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000019 on 2026-01-01."
+    "details":"Automated shift schedule published for EMP-000303 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000020",
@@ -233,16 +233,160 @@
     "entity_id":"SHIFT-2026-01-01-A-000020",
     "action":"CREATE",
     "from_state":null,
-    "to_state":"SCHEDULED",
+    "to_state":"SWAPPED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
     "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000024 on 2026-01-01."
+    "details":"Automated shift schedule published for EMP-000203 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000021",
     "entity_name":"ShiftAssignment",
     "entity_id":"SHIFT-2026-01-01-A-000021",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SWAPPED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000503 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000022",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000022",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SWAPPED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000403 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000023",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000023",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SWAPPED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000703 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000024",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000024",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SWAPPED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000603 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000025",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000025",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SWAPPED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000104 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000026",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000026",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SWAPPED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000004 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000027",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000027",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SWAPPED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000304 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000028",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000028",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SWAPPED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000204 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000029",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000029",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SWAPPED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000504 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000030",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000030",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SWAPPED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000404 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000031",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000031",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000604 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000032",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000032",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000704 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000033",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000033",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
@@ -252,9 +396,477 @@
     "details":"Automated shift schedule published for EMP-000005 on 2026-01-01."
   },
   {
-    "audit_id":"AUD-000022",
+    "audit_id":"AUD-000034",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-01-A-000022",
+    "entity_id":"SHIFT-2026-01-01-A-000034",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000105 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000035",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000035",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000205 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000036",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000036",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000305 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000037",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000037",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000405 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000038",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000038",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000505 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000039",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000039",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000605 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000040",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000040",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000705 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000041",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000041",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000006 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000042",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000042",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000106 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000043",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000043",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000206 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000044",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000044",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000306 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000045",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000045",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000406 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000046",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000046",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000506 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000047",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000047",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000606 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000048",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000048",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000706 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000049",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000049",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000007 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000050",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000050",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000107 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000051",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000051",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000207 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000052",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000052",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000307 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000053",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000053",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000407 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000054",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000054",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000507 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000055",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000055",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000607 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000056",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000056",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000707 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000057",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000057",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000008 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000058",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000058",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000108 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000059",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000059",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000208 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000060",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000060",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000308 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000061",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000061",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000408 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000062",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000062",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000508 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000063",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000063",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000608 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000064",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000064",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000708 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000065",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000065",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000009 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000066",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000066",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000109 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000067",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000067",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000209 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000068",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000068",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000309 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000069",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000069",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000409 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000070",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000070",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000509 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000071",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000071",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000609 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000072",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000072",
+    "action":"CREATE",
+    "from_state":null,
+    "to_state":"SCHEDULED",
+    "actor_id":"SYSTEM",
+    "actor_role":"System Administrator",
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000709 on 2026-01-01."
+  },
+  {
+    "audit_id":"AUD-000073",
+    "entity_name":"ShiftAssignment",
+    "entity_id":"SHIFT-2026-01-01-A-000073",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
@@ -264,940 +876,328 @@
     "details":"Automated shift schedule published for EMP-000010 on 2026-01-01."
   },
   {
-    "audit_id":"AUD-000023",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-01-A-000023",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000015 on 2026-01-01."
-  },
-  {
-    "audit_id":"AUD-000024",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-01-A-000024",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000020 on 2026-01-01."
-  },
-  {
-    "audit_id":"AUD-000025",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-01-A-000025",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-18T00:00:00",
-    "details":"Automated shift schedule published for EMP-000025 on 2026-01-01."
-  },
-  {
-    "audit_id":"AUD-000026",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000026",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000001 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000027",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000027",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000006 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000028",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000028",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000011 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000029",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000029",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000016 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000030",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000030",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000021 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000031",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000031",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000002 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000032",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000032",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000007 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000033",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000033",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000012 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000034",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000034",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000017 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000035",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000035",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000022 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000036",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000036",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000003 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000037",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000037",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000008 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000038",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000038",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000013 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000039",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000039",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000018 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000040",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000040",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000023 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000041",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000041",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000004 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000042",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000042",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000009 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000043",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000043",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000014 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000044",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000044",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000019 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000045",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000045",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000024 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000046",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000046",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000005 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000047",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000047",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000010 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000048",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000048",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000015 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000049",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000049",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000020 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000050",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-02-A-000050",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-19T00:00:00",
-    "details":"Automated shift schedule published for EMP-000025 on 2026-01-02."
-  },
-  {
-    "audit_id":"AUD-000051",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000051",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000001 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000052",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000052",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000011 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000053",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000053",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000016 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000054",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000054",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000021 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000055",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000055",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000026 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000056",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000056",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000002 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000057",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000057",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000007 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000058",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000058",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000012 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000059",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000059",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000017 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000060",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000060",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000022 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000061",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000061",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000003 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000062",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000062",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000013 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000063",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000063",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000018 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000064",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000064",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000023 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000065",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000065",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000028 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000066",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000066",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000004 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000067",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000067",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000009 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000068",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000068",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000014 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000069",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000069",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000024 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000070",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000070",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000029 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000071",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000071",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000005 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000072",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000072",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000010 on 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000073",
-    "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000073",
-    "action":"CREATE",
-    "from_state":null,
-    "to_state":"SCHEDULED",
-    "actor_id":"SYSTEM",
-    "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000015 on 2026-01-03."
-  },
-  {
     "audit_id":"AUD-000074",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000074",
+    "entity_id":"SHIFT-2026-01-01-A-000074",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000020 on 2026-01-03."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000110 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000075",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-03-A-000075",
+    "entity_id":"SHIFT-2026-01-01-A-000075",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-20T00:00:00",
-    "details":"Automated shift schedule published for EMP-000025 on 2026-01-03."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000210 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000076",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000076",
+    "entity_id":"SHIFT-2026-01-01-A-000076",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000001 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000310 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000077",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000077",
+    "entity_id":"SHIFT-2026-01-01-A-000077",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000011 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000410 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000078",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000078",
+    "entity_id":"SHIFT-2026-01-01-A-000078",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000021 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000510 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000079",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000079",
+    "entity_id":"SHIFT-2026-01-01-A-000079",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000026 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000610 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000080",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000080",
+    "entity_id":"SHIFT-2026-01-01-A-000080",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000031 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000710 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000081",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000081",
+    "entity_id":"SHIFT-2026-01-01-A-000081",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000002 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000011 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000082",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000082",
+    "entity_id":"SHIFT-2026-01-01-A-000082",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000007 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000111 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000083",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000083",
+    "entity_id":"SHIFT-2026-01-01-A-000083",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000012 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000211 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000084",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000084",
+    "entity_id":"SHIFT-2026-01-01-A-000084",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000017 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000311 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000085",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000085",
+    "entity_id":"SHIFT-2026-01-01-A-000085",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000027 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000411 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000086",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000086",
+    "entity_id":"SHIFT-2026-01-01-A-000086",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000003 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000511 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000087",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000087",
+    "entity_id":"SHIFT-2026-01-01-A-000087",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000013 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000611 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000088",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000088",
+    "entity_id":"SHIFT-2026-01-01-A-000088",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000018 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000711 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000089",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000089",
+    "entity_id":"SHIFT-2026-01-01-A-000089",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000023 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000012 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000090",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000090",
+    "entity_id":"SHIFT-2026-01-01-A-000090",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000028 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000112 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000091",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000091",
+    "entity_id":"SHIFT-2026-01-01-A-000091",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000004 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000212 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000092",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000092",
+    "entity_id":"SHIFT-2026-01-01-A-000092",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000019 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000312 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000093",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000093",
+    "entity_id":"SHIFT-2026-01-01-A-000093",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000029 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000412 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000094",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000094",
+    "entity_id":"SHIFT-2026-01-01-A-000094",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000034 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000512 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000095",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000095",
+    "entity_id":"SHIFT-2026-01-01-A-000095",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000039 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000612 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000096",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000096",
+    "entity_id":"SHIFT-2026-01-01-A-000096",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000005 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000712 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000097",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000097",
+    "entity_id":"SHIFT-2026-01-01-A-000097",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000010 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000013 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000098",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000098",
+    "entity_id":"SHIFT-2026-01-01-A-000098",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000015 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000113 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000099",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000099",
+    "entity_id":"SHIFT-2026-01-01-A-000099",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000020 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000213 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000100",
     "entity_name":"ShiftAssignment",
-    "entity_id":"SHIFT-2026-01-04-A-000100",
+    "entity_id":"SHIFT-2026-01-01-A-000100",
     "action":"CREATE",
     "from_state":null,
     "to_state":"SCHEDULED",
     "actor_id":"SYSTEM",
     "actor_role":"System Administrator",
-    "timestamp":"2025-12-21T00:00:00",
-    "details":"Automated shift schedule published for EMP-000035 on 2026-01-04."
+    "timestamp":"2025-12-18T00:00:00",
+    "details":"Automated shift schedule published for EMP-000313 on 2026-01-01."
   },
   {
     "audit_id":"AUD-000101",
@@ -1208,11 +1208,35 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-01T14:00:00",
-    "details":"Leave approved for employee EMP-000049 from 2026-01-03 to 2026-01-05."
+    "timestamp":"2026-03-18T14:00:00",
+    "details":"Leave approved for employee EMP-000537 from 2026-03-20 to 2026-03-23."
   },
   {
     "audit_id":"AUD-000102",
+    "entity_name":"LeaveRequest",
+    "entity_id":"LVE-2026-000002",
+    "action":"STATE_TRANSITION",
+    "from_state":"SUBMITTED",
+    "to_state":"APPROVED",
+    "actor_id":"EMP-000001",
+    "actor_role":"Manager",
+    "timestamp":"2026-03-25T14:00:00",
+    "details":"Leave approved for employee EMP-001296 from 2026-03-27 to 2026-03-30."
+  },
+  {
+    "audit_id":"AUD-000103",
+    "entity_name":"LeaveRequest",
+    "entity_id":"LVE-2026-000003",
+    "action":"STATE_TRANSITION",
+    "from_state":"SUBMITTED",
+    "to_state":"APPROVED",
+    "actor_id":"EMP-000001",
+    "actor_role":"Manager",
+    "timestamp":"2026-03-21T14:00:00",
+    "details":"Leave approved for employee EMP-000962 from 2026-03-23 to 2026-03-26."
+  },
+  {
+    "audit_id":"AUD-000104",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000004",
     "action":"STATE_TRANSITION",
@@ -1220,11 +1244,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-09T14:00:00",
-    "details":"Leave approved for employee EMP-000003 from 2026-01-11 to 2026-01-14."
+    "timestamp":"2026-03-14T14:00:00",
+    "details":"Leave approved for employee EMP-000459 from 2026-03-16 to 2026-03-16."
   },
   {
-    "audit_id":"AUD-000103",
+    "audit_id":"AUD-000105",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000005",
     "action":"STATE_TRANSITION",
@@ -1232,11 +1256,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-09T14:00:00",
-    "details":"Leave approved for employee EMP-000024 from 2026-01-11 to 2026-01-11."
+    "timestamp":"2026-02-13T14:00:00",
+    "details":"Leave approved for employee EMP-001691 from 2026-02-15 to 2026-02-15."
   },
   {
-    "audit_id":"AUD-000104",
+    "audit_id":"AUD-000106",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000006",
     "action":"STATE_TRANSITION",
@@ -1244,11 +1268,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-01T14:00:00",
-    "details":"Leave approved for employee EMP-000031 from 2026-01-03 to 2026-01-03."
+    "timestamp":"2026-03-12T14:00:00",
+    "details":"Leave approved for employee EMP-000248 from 2026-03-14 to 2026-03-16."
   },
   {
-    "audit_id":"AUD-000105",
+    "audit_id":"AUD-000107",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000007",
     "action":"STATE_TRANSITION",
@@ -1256,23 +1280,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-06T14:00:00",
-    "details":"Leave approved for employee EMP-000043 from 2026-01-08 to 2026-01-10."
+    "timestamp":"2026-02-18T14:00:00",
+    "details":"Leave approved for employee EMP-000796 from 2026-02-20 to 2026-02-23."
   },
   {
-    "audit_id":"AUD-000106",
-    "entity_name":"LeaveRequest",
-    "entity_id":"LVE-2026-000008",
-    "action":"STATE_TRANSITION",
-    "from_state":"SUBMITTED",
-    "to_state":"APPROVED",
-    "actor_id":"EMP-000001",
-    "actor_role":"Manager",
-    "timestamp":"2026-01-01T14:00:00",
-    "details":"Leave approved for employee EMP-000006 from 2026-01-03 to 2026-01-04."
-  },
-  {
-    "audit_id":"AUD-000107",
+    "audit_id":"AUD-000108",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000009",
     "action":"STATE_TRANSITION",
@@ -1280,11 +1292,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-02T14:00:00",
-    "details":"Leave approved for employee EMP-000014 from 2026-01-04 to 2026-01-06."
+    "timestamp":"2026-01-16T14:00:00",
+    "details":"Leave approved for employee EMP-000448 from 2026-01-18 to 2026-01-21."
   },
   {
-    "audit_id":"AUD-000108",
+    "audit_id":"AUD-000109",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000010",
     "action":"STATE_TRANSITION",
@@ -1292,11 +1304,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-01T14:00:00",
-    "details":"Leave approved for employee EMP-000006 from 2026-01-03 to 2026-01-05."
+    "timestamp":"2026-01-22T14:00:00",
+    "details":"Leave approved for employee EMP-000471 from 2026-01-24 to 2026-01-24."
   },
   {
-    "audit_id":"AUD-000109",
+    "audit_id":"AUD-000110",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000011",
     "action":"STATE_TRANSITION",
@@ -1304,11 +1316,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-01T14:00:00",
-    "details":"Leave approved for employee EMP-000008 from 2026-01-03 to 2026-01-04."
+    "timestamp":"2026-03-27T14:00:00",
+    "details":"Leave approved for employee EMP-000679 from 2026-03-29 to 2026-03-30."
   },
   {
-    "audit_id":"AUD-000110",
+    "audit_id":"AUD-000111",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000012",
     "action":"STATE_TRANSITION",
@@ -1316,20 +1328,8 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-01T14:00:00",
-    "details":"Leave approved for employee EMP-000048 from 2026-01-03 to 2026-01-03."
-  },
-  {
-    "audit_id":"AUD-000111",
-    "entity_name":"LeaveRequest",
-    "entity_id":"LVE-2026-000013",
-    "action":"STATE_TRANSITION",
-    "from_state":"SUBMITTED",
-    "to_state":"APPROVED",
-    "actor_id":"EMP-000001",
-    "actor_role":"Manager",
-    "timestamp":"2026-01-07T14:00:00",
-    "details":"Leave approved for employee EMP-000022 from 2026-01-09 to 2026-01-11."
+    "timestamp":"2026-03-01T14:00:00",
+    "details":"Leave approved for employee EMP-001360 from 2026-03-03 to 2026-03-03."
   },
   {
     "audit_id":"AUD-000112",
@@ -1340,8 +1340,8 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-04T14:00:00",
-    "details":"Leave approved for employee EMP-000038 from 2026-01-06 to 2026-01-08."
+    "timestamp":"2026-02-17T14:00:00",
+    "details":"Leave approved for employee EMP-001559 from 2026-02-19 to 2026-02-20."
   },
   {
     "audit_id":"AUD-000113",
@@ -1352,23 +1352,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-10T14:00:00",
-    "details":"Leave approved for employee EMP-000039 from 2026-01-12 to 2026-01-15."
+    "timestamp":"2026-03-25T14:00:00",
+    "details":"Leave approved for employee EMP-000672 from 2026-03-27 to 2026-03-28."
   },
   {
     "audit_id":"AUD-000114",
-    "entity_name":"LeaveRequest",
-    "entity_id":"LVE-2026-000016",
-    "action":"STATE_TRANSITION",
-    "from_state":"SUBMITTED",
-    "to_state":"APPROVED",
-    "actor_id":"EMP-000001",
-    "actor_role":"Manager",
-    "timestamp":"2026-01-05T14:00:00",
-    "details":"Leave approved for employee EMP-000049 from 2026-01-07 to 2026-01-10."
-  },
-  {
-    "audit_id":"AUD-000115",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000017",
     "action":"STATE_TRANSITION",
@@ -1376,11 +1364,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-01T14:00:00",
-    "details":"Leave approved for employee EMP-000008 from 2026-01-03 to 2026-01-04."
+    "timestamp":"2026-02-27T14:00:00",
+    "details":"Leave approved for employee EMP-000835 from 2026-03-01 to 2026-03-04."
   },
   {
-    "audit_id":"AUD-000116",
+    "audit_id":"AUD-000115",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000018",
     "action":"STATE_TRANSITION",
@@ -1388,11 +1376,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-04T14:00:00",
-    "details":"Leave approved for employee EMP-000050 from 2026-01-06 to 2026-01-06."
+    "timestamp":"2026-01-09T14:00:00",
+    "details":"Leave approved for employee EMP-000185 from 2026-01-11 to 2026-01-12."
   },
   {
-    "audit_id":"AUD-000117",
+    "audit_id":"AUD-000116",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000019",
     "action":"STATE_TRANSITION",
@@ -1400,8 +1388,20 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-05T14:00:00",
-    "details":"Leave approved for employee EMP-000002 from 2026-01-07 to 2026-01-09."
+    "timestamp":"2026-01-19T14:00:00",
+    "details":"Leave approved for employee EMP-001262 from 2026-01-21 to 2026-01-21."
+  },
+  {
+    "audit_id":"AUD-000117",
+    "entity_name":"LeaveRequest",
+    "entity_id":"LVE-2026-000020",
+    "action":"STATE_TRANSITION",
+    "from_state":"SUBMITTED",
+    "to_state":"APPROVED",
+    "actor_id":"EMP-000001",
+    "actor_role":"Manager",
+    "timestamp":"2026-03-14T14:00:00",
+    "details":"Leave approved for employee EMP-000381 from 2026-03-16 to 2026-03-18."
   },
   {
     "audit_id":"AUD-000118",
@@ -1412,20 +1412,20 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-03T14:00:00",
-    "details":"Leave approved for employee EMP-000047 from 2026-01-05 to 2026-01-08."
+    "timestamp":"2026-03-14T14:00:00",
+    "details":"Leave approved for employee EMP-000761 from 2026-03-16 to 2026-03-16."
   },
   {
     "audit_id":"AUD-000119",
     "entity_name":"LeaveRequest",
-    "entity_id":"LVE-2026-000023",
+    "entity_id":"LVE-2026-000022",
     "action":"STATE_TRANSITION",
     "from_state":"SUBMITTED",
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-03T14:00:00",
-    "details":"Leave approved for employee EMP-000005 from 2026-01-05 to 2026-01-06."
+    "timestamp":"2026-02-19T14:00:00",
+    "details":"Leave approved for employee EMP-001609 from 2026-02-21 to 2026-02-22."
   },
   {
     "audit_id":"AUD-000120",
@@ -1436,8 +1436,8 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-03T14:00:00",
-    "details":"Leave approved for employee EMP-000020 from 2026-01-05 to 2026-01-06."
+    "timestamp":"2026-02-15T14:00:00",
+    "details":"Leave approved for employee EMP-000222 from 2026-02-17 to 2026-02-18."
   },
   {
     "audit_id":"AUD-000121",
@@ -1448,8 +1448,8 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-04T14:00:00",
-    "details":"Leave approved for employee EMP-000006 from 2026-01-06 to 2026-01-08."
+    "timestamp":"2026-01-18T14:00:00",
+    "details":"Leave approved for employee EMP-001740 from 2026-01-20 to 2026-01-20."
   },
   {
     "audit_id":"AUD-000122",
@@ -1460,8 +1460,8 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-04T14:00:00",
-    "details":"Leave approved for employee EMP-000011 from 2026-01-06 to 2026-01-09."
+    "timestamp":"2026-01-27T14:00:00",
+    "details":"Leave approved for employee EMP-001809 from 2026-01-29 to 2026-01-31."
   },
   {
     "audit_id":"AUD-000123",
@@ -1472,8 +1472,8 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-04T14:00:00",
-    "details":"Leave approved for employee EMP-000013 from 2026-01-06 to 2026-01-07."
+    "timestamp":"2026-03-17T14:00:00",
+    "details":"Leave approved for employee EMP-000371 from 2026-03-19 to 2026-03-20."
   },
   {
     "audit_id":"AUD-000124",
@@ -1484,11 +1484,23 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-01T14:00:00",
-    "details":"Leave approved for employee EMP-000019 from 2026-01-03 to 2026-01-03."
+    "timestamp":"2026-03-02T14:00:00",
+    "details":"Leave approved for employee EMP-001852 from 2026-03-04 to 2026-03-06."
   },
   {
     "audit_id":"AUD-000125",
+    "entity_name":"LeaveRequest",
+    "entity_id":"LVE-2026-000029",
+    "action":"STATE_TRANSITION",
+    "from_state":"SUBMITTED",
+    "to_state":"APPROVED",
+    "actor_id":"EMP-000001",
+    "actor_role":"Manager",
+    "timestamp":"2026-02-14T14:00:00",
+    "details":"Leave approved for employee EMP-000865 from 2026-02-16 to 2026-02-17."
+  },
+  {
+    "audit_id":"AUD-000126",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000030",
     "action":"STATE_TRANSITION",
@@ -1496,11 +1508,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-06T14:00:00",
-    "details":"Leave approved for employee EMP-000041 from 2026-01-08 to 2026-01-10."
+    "timestamp":"2026-02-20T14:00:00",
+    "details":"Leave approved for employee EMP-000953 from 2026-02-22 to 2026-02-25."
   },
   {
-    "audit_id":"AUD-000126",
+    "audit_id":"AUD-000127",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000031",
     "action":"STATE_TRANSITION",
@@ -1508,11 +1520,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-09T14:00:00",
-    "details":"Leave approved for employee EMP-000004 from 2026-01-11 to 2026-01-11."
+    "timestamp":"2026-01-06T14:00:00",
+    "details":"Leave approved for employee EMP-001560 from 2026-01-08 to 2026-01-08."
   },
   {
-    "audit_id":"AUD-000127",
+    "audit_id":"AUD-000128",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000032",
     "action":"STATE_TRANSITION",
@@ -1520,11 +1532,23 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-10T14:00:00",
-    "details":"Leave approved for employee EMP-000034 from 2026-01-12 to 2026-01-15."
+    "timestamp":"2026-02-25T14:00:00",
+    "details":"Leave approved for employee EMP-001013 from 2026-02-27 to 2026-02-28."
   },
   {
-    "audit_id":"AUD-000128",
+    "audit_id":"AUD-000129",
+    "entity_name":"LeaveRequest",
+    "entity_id":"LVE-2026-000033",
+    "action":"STATE_TRANSITION",
+    "from_state":"SUBMITTED",
+    "to_state":"APPROVED",
+    "actor_id":"EMP-000001",
+    "actor_role":"Manager",
+    "timestamp":"2026-02-20T14:00:00",
+    "details":"Leave approved for employee EMP-000117 from 2026-02-22 to 2026-02-23."
+  },
+  {
+    "audit_id":"AUD-000130",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000034",
     "action":"STATE_TRANSITION",
@@ -1532,11 +1556,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-02T14:00:00",
-    "details":"Leave approved for employee EMP-000032 from 2026-01-04 to 2026-01-06."
+    "timestamp":"2026-01-05T14:00:00",
+    "details":"Leave approved for employee EMP-000792 from 2026-01-07 to 2026-01-07."
   },
   {
-    "audit_id":"AUD-000129",
+    "audit_id":"AUD-000131",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000035",
     "action":"STATE_TRANSITION",
@@ -1544,11 +1568,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-06T14:00:00",
-    "details":"Leave approved for employee EMP-000027 from 2026-01-08 to 2026-01-10."
+    "timestamp":"2026-01-07T14:00:00",
+    "details":"Leave approved for employee EMP-001607 from 2026-01-09 to 2026-01-12."
   },
   {
-    "audit_id":"AUD-000130",
+    "audit_id":"AUD-000132",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000036",
     "action":"STATE_TRANSITION",
@@ -1556,11 +1580,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-02T14:00:00",
-    "details":"Leave approved for employee EMP-000022 from 2026-01-04 to 2026-01-05."
+    "timestamp":"2026-01-13T14:00:00",
+    "details":"Leave approved for employee EMP-001478 from 2026-01-15 to 2026-01-15."
   },
   {
-    "audit_id":"AUD-000131",
+    "audit_id":"AUD-000133",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000037",
     "action":"STATE_TRANSITION",
@@ -1568,11 +1592,35 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-07T14:00:00",
-    "details":"Leave approved for employee EMP-000013 from 2026-01-09 to 2026-01-12."
+    "timestamp":"2026-03-08T14:00:00",
+    "details":"Leave approved for employee EMP-000799 from 2026-03-10 to 2026-03-13."
   },
   {
-    "audit_id":"AUD-000132",
+    "audit_id":"AUD-000134",
+    "entity_name":"LeaveRequest",
+    "entity_id":"LVE-2026-000038",
+    "action":"STATE_TRANSITION",
+    "from_state":"SUBMITTED",
+    "to_state":"APPROVED",
+    "actor_id":"EMP-000001",
+    "actor_role":"Manager",
+    "timestamp":"2026-01-23T14:00:00",
+    "details":"Leave approved for employee EMP-000430 from 2026-01-25 to 2026-01-26."
+  },
+  {
+    "audit_id":"AUD-000135",
+    "entity_name":"LeaveRequest",
+    "entity_id":"LVE-2026-000039",
+    "action":"STATE_TRANSITION",
+    "from_state":"SUBMITTED",
+    "to_state":"APPROVED",
+    "actor_id":"EMP-000001",
+    "actor_role":"Manager",
+    "timestamp":"2026-01-23T14:00:00",
+    "details":"Leave approved for employee EMP-001564 from 2026-01-25 to 2026-01-28."
+  },
+  {
+    "audit_id":"AUD-000136",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000040",
     "action":"STATE_TRANSITION",
@@ -1580,11 +1628,23 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-02T14:00:00",
-    "details":"Leave approved for employee EMP-000016 from 2026-01-04 to 2026-01-05."
+    "timestamp":"2026-01-07T14:00:00",
+    "details":"Leave approved for employee EMP-000448 from 2026-01-09 to 2026-01-11."
   },
   {
-    "audit_id":"AUD-000133",
+    "audit_id":"AUD-000137",
+    "entity_name":"LeaveRequest",
+    "entity_id":"LVE-2026-000041",
+    "action":"STATE_TRANSITION",
+    "from_state":"SUBMITTED",
+    "to_state":"APPROVED",
+    "actor_id":"EMP-000001",
+    "actor_role":"Manager",
+    "timestamp":"2026-01-05T14:00:00",
+    "details":"Leave approved for employee EMP-001372 from 2026-01-07 to 2026-01-10."
+  },
+  {
+    "audit_id":"AUD-000138",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000042",
     "action":"STATE_TRANSITION",
@@ -1592,23 +1652,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-07T14:00:00",
-    "details":"Leave approved for employee EMP-000016 from 2026-01-09 to 2026-01-11."
+    "timestamp":"2026-03-03T14:00:00",
+    "details":"Leave approved for employee EMP-000192 from 2026-03-05 to 2026-03-05."
   },
   {
-    "audit_id":"AUD-000134",
-    "entity_name":"LeaveRequest",
-    "entity_id":"LVE-2026-000043",
-    "action":"STATE_TRANSITION",
-    "from_state":"SUBMITTED",
-    "to_state":"APPROVED",
-    "actor_id":"EMP-000001",
-    "actor_role":"Manager",
-    "timestamp":"2026-01-03T14:00:00",
-    "details":"Leave approved for employee EMP-000032 from 2026-01-05 to 2026-01-05."
-  },
-  {
-    "audit_id":"AUD-000135",
+    "audit_id":"AUD-000139",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000044",
     "action":"STATE_TRANSITION",
@@ -1616,11 +1664,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-05T14:00:00",
-    "details":"Leave approved for employee EMP-000042 from 2026-01-07 to 2026-01-08."
+    "timestamp":"2026-03-19T14:00:00",
+    "details":"Leave approved for employee EMP-000701 from 2026-03-21 to 2026-03-22."
   },
   {
-    "audit_id":"AUD-000136",
+    "audit_id":"AUD-000140",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000045",
     "action":"STATE_TRANSITION",
@@ -1628,11 +1676,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-04T14:00:00",
-    "details":"Leave approved for employee EMP-000026 from 2026-01-06 to 2026-01-06."
+    "timestamp":"2026-01-30T14:00:00",
+    "details":"Leave approved for employee EMP-000656 from 2026-02-01 to 2026-02-02."
   },
   {
-    "audit_id":"AUD-000137",
+    "audit_id":"AUD-000141",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000046",
     "action":"STATE_TRANSITION",
@@ -1640,11 +1688,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-04T14:00:00",
-    "details":"Leave approved for employee EMP-000032 from 2026-01-06 to 2026-01-06."
+    "timestamp":"2026-03-09T14:00:00",
+    "details":"Leave approved for employee EMP-000866 from 2026-03-11 to 2026-03-12."
   },
   {
-    "audit_id":"AUD-000138",
+    "audit_id":"AUD-000142",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000047",
     "action":"STATE_TRANSITION",
@@ -1652,11 +1700,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-05T14:00:00",
-    "details":"Leave approved for employee EMP-000038 from 2026-01-07 to 2026-01-10."
+    "timestamp":"2026-03-14T14:00:00",
+    "details":"Leave approved for employee EMP-000191 from 2026-03-16 to 2026-03-17."
   },
   {
-    "audit_id":"AUD-000139",
+    "audit_id":"AUD-000143",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000048",
     "action":"STATE_TRANSITION",
@@ -1664,11 +1712,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-04T14:00:00",
-    "details":"Leave approved for employee EMP-000025 from 2026-01-06 to 2026-01-09."
+    "timestamp":"2026-01-16T14:00:00",
+    "details":"Leave approved for employee EMP-001990 from 2026-01-18 to 2026-01-20."
   },
   {
-    "audit_id":"AUD-000140",
+    "audit_id":"AUD-000144",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000049",
     "action":"STATE_TRANSITION",
@@ -1676,11 +1724,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-04T14:00:00",
-    "details":"Leave approved for employee EMP-000050 from 2026-01-06 to 2026-01-06."
+    "timestamp":"2026-03-05T14:00:00",
+    "details":"Leave approved for employee EMP-000774 from 2026-03-07 to 2026-03-09."
   },
   {
-    "audit_id":"AUD-000141",
+    "audit_id":"AUD-000145",
     "entity_name":"LeaveRequest",
     "entity_id":"LVE-2026-000050",
     "action":"STATE_TRANSITION",
@@ -1688,11 +1736,11 @@
     "to_state":"APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-02T14:00:00",
-    "details":"Leave approved for employee EMP-000042 from 2026-01-04 to 2026-01-06."
+    "timestamp":"2026-01-06T14:00:00",
+    "details":"Leave approved for employee EMP-001250 from 2026-01-08 to 2026-01-10."
   },
   {
-    "audit_id":"AUD-000142",
+    "audit_id":"AUD-000146",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000001",
     "action":"STATE_TRANSITION",
@@ -1700,11 +1748,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-08T12:00:00",
-    "details":"Shift swap approved between EMP-000037 and EMP-000003."
+    "timestamp":"2026-01-09T12:00:00",
+    "details":"Shift swap approved between EMP-000286 and EMP-000386."
   },
   {
-    "audit_id":"AUD-000143",
+    "audit_id":"AUD-000147",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000002",
     "action":"STATE_TRANSITION",
@@ -1712,11 +1760,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-14T12:00:00",
-    "details":"Shift swap approved between EMP-000008 and EMP-000013."
+    "timestamp":"2026-03-28T12:00:00",
+    "details":"Shift swap approved between EMP-001096 and EMP-001196."
   },
   {
-    "audit_id":"AUD-000144",
+    "audit_id":"AUD-000148",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000003",
     "action":"STATE_TRANSITION",
@@ -1724,11 +1772,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-11T12:00:00",
-    "details":"Shift swap approved between EMP-000006 and EMP-000011."
+    "timestamp":"2026-01-14T12:00:00",
+    "details":"Shift swap approved between EMP-000270 and EMP-000370."
   },
   {
-    "audit_id":"AUD-000145",
+    "audit_id":"AUD-000149",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000004",
     "action":"STATE_TRANSITION",
@@ -1736,11 +1784,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-02T12:00:00",
-    "details":"Shift swap approved between EMP-000007 and EMP-000012."
+    "timestamp":"2026-03-29T12:00:00",
+    "details":"Shift swap approved between EMP-001537 and EMP-001637."
   },
   {
-    "audit_id":"AUD-000146",
+    "audit_id":"AUD-000150",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000005",
     "action":"STATE_TRANSITION",
@@ -1748,11 +1796,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-12T12:00:00",
-    "details":"Shift swap approved between EMP-000004 and EMP-000014."
+    "timestamp":"2026-03-16T12:00:00",
+    "details":"Shift swap approved between EMP-000090 and EMP-000190."
   },
   {
-    "audit_id":"AUD-000147",
+    "audit_id":"AUD-000151",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000006",
     "action":"STATE_TRANSITION",
@@ -1760,11 +1808,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-05T12:00:00",
-    "details":"Shift swap approved between EMP-000012 and EMP-000017."
+    "timestamp":"2026-02-06T12:00:00",
+    "details":"Shift swap approved between EMP-000103 and EMP-000203."
   },
   {
-    "audit_id":"AUD-000148",
+    "audit_id":"AUD-000152",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000007",
     "action":"STATE_TRANSITION",
@@ -1772,11 +1820,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-13T12:00:00",
-    "details":"Shift swap approved between EMP-000017 and EMP-000022."
+    "timestamp":"2026-03-18T12:00:00",
+    "details":"Shift swap approved between EMP-000645 and EMP-000745."
   },
   {
-    "audit_id":"AUD-000149",
+    "audit_id":"AUD-000153",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000008",
     "action":"STATE_TRANSITION",
@@ -1784,11 +1832,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-09T12:00:00",
-    "details":"Shift swap approved between EMP-000031 and EMP-000007."
+    "timestamp":"2026-01-05T12:00:00",
+    "details":"Shift swap approved between EMP-000429 and EMP-000629."
   },
   {
-    "audit_id":"AUD-000150",
+    "audit_id":"AUD-000154",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000009",
     "action":"STATE_TRANSITION",
@@ -1796,11 +1844,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-14T12:00:00",
-    "details":"Shift swap approved between EMP-000012 and EMP-000017."
+    "timestamp":"2026-01-24T12:00:00",
+    "details":"Shift swap approved between EMP-001100 and EMP-001200."
   },
   {
-    "audit_id":"AUD-000151",
+    "audit_id":"AUD-000155",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000010",
     "action":"STATE_TRANSITION",
@@ -1808,11 +1856,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-04T12:00:00",
-    "details":"Shift swap approved between EMP-000001 and EMP-000011."
+    "timestamp":"2026-01-19T12:00:00",
+    "details":"Shift swap approved between EMP-000549 and EMP-000649."
   },
   {
-    "audit_id":"AUD-000152",
+    "audit_id":"AUD-000156",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000011",
     "action":"STATE_TRANSITION",
@@ -1820,11 +1868,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-05T12:00:00",
-    "details":"Shift swap approved between EMP-000019 and EMP-000024."
+    "timestamp":"2026-02-07T12:00:00",
+    "details":"Shift swap approved between EMP-001072 and EMP-001172."
   },
   {
-    "audit_id":"AUD-000153",
+    "audit_id":"AUD-000157",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000012",
     "action":"STATE_TRANSITION",
@@ -1832,11 +1880,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-03T12:00:00",
-    "details":"Shift swap approved between EMP-000023 and EMP-000028."
+    "timestamp":"2026-02-19T12:00:00",
+    "details":"Shift swap approved between EMP-000472 and EMP-000572."
   },
   {
-    "audit_id":"AUD-000154",
+    "audit_id":"AUD-000158",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000013",
     "action":"STATE_TRANSITION",
@@ -1844,11 +1892,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-02T12:00:00",
-    "details":"Shift swap approved between EMP-000013 and EMP-000018."
+    "timestamp":"2026-03-17T12:00:00",
+    "details":"Shift swap approved between EMP-000284 and EMP-000384."
   },
   {
-    "audit_id":"AUD-000155",
+    "audit_id":"AUD-000159",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000014",
     "action":"STATE_TRANSITION",
@@ -1856,11 +1904,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-11T12:00:00",
-    "details":"Shift swap approved between EMP-000012 and EMP-000027."
+    "timestamp":"2026-02-11T12:00:00",
+    "details":"Shift swap approved between EMP-000415 and EMP-000515."
   },
   {
-    "audit_id":"AUD-000156",
+    "audit_id":"AUD-000160",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000015",
     "action":"STATE_TRANSITION",
@@ -1868,11 +1916,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-05T12:00:00",
-    "details":"Shift swap approved between EMP-000004 and EMP-000019."
+    "timestamp":"2026-01-25T12:00:00",
+    "details":"Shift swap approved between EMP-001295 and EMP-001495."
   },
   {
-    "audit_id":"AUD-000157",
+    "audit_id":"AUD-000161",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000016",
     "action":"STATE_TRANSITION",
@@ -1880,11 +1928,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-09T12:00:00",
-    "details":"Shift swap approved between EMP-000031 and EMP-000007."
+    "timestamp":"2026-01-11T12:00:00",
+    "details":"Shift swap approved between EMP-001165 and EMP-001265."
   },
   {
-    "audit_id":"AUD-000158",
+    "audit_id":"AUD-000162",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000017",
     "action":"STATE_TRANSITION",
@@ -1892,11 +1940,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-07T12:00:00",
-    "details":"Shift swap approved between EMP-000024 and EMP-000029."
+    "timestamp":"2026-03-31T12:00:00",
+    "details":"Shift swap approved between EMP-000860 and EMP-000061."
   },
   {
-    "audit_id":"AUD-000159",
+    "audit_id":"AUD-000163",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000018",
     "action":"STATE_TRANSITION",
@@ -1904,11 +1952,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-09T12:00:00",
-    "details":"Shift swap approved between EMP-000020 and EMP-000030."
+    "timestamp":"2026-01-15T12:00:00",
+    "details":"Shift swap approved between EMP-000369 and EMP-000469."
   },
   {
-    "audit_id":"AUD-000160",
+    "audit_id":"AUD-000164",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000019",
     "action":"STATE_TRANSITION",
@@ -1916,11 +1964,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-13T12:00:00",
-    "details":"Shift swap approved between EMP-000008 and EMP-000013."
+    "timestamp":"2026-01-23T12:00:00",
+    "details":"Shift swap approved between EMP-000118 and EMP-000218."
   },
   {
-    "audit_id":"AUD-000161",
+    "audit_id":"AUD-000165",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000020",
     "action":"STATE_TRANSITION",
@@ -1928,11 +1976,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-05T12:00:00",
-    "details":"Shift swap approved between EMP-000010 and EMP-000015."
+    "timestamp":"2026-02-07T12:00:00",
+    "details":"Shift swap approved between EMP-000257 and EMP-000357."
   },
   {
-    "audit_id":"AUD-000162",
+    "audit_id":"AUD-000166",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000021",
     "action":"STATE_TRANSITION",
@@ -1940,11 +1988,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-04T12:00:00",
-    "details":"Shift swap approved between EMP-000034 and EMP-000039."
+    "timestamp":"2026-03-23T12:00:00",
+    "details":"Shift swap approved between EMP-000829 and EMP-000030."
   },
   {
-    "audit_id":"AUD-000163",
+    "audit_id":"AUD-000167",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000022",
     "action":"STATE_TRANSITION",
@@ -1952,11 +2000,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-01T12:00:00",
-    "details":"Shift swap approved between EMP-000019 and EMP-000024."
+    "timestamp":"2026-01-10T12:00:00",
+    "details":"Shift swap approved between EMP-000995 and EMP-001095."
   },
   {
-    "audit_id":"AUD-000164",
+    "audit_id":"AUD-000168",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000023",
     "action":"STATE_TRANSITION",
@@ -1964,11 +2012,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-05T12:00:00",
-    "details":"Shift swap approved between EMP-000035 and EMP-000045."
+    "timestamp":"2026-02-12T12:00:00",
+    "details":"Shift swap approved between EMP-000193 and EMP-000393."
   },
   {
-    "audit_id":"AUD-000165",
+    "audit_id":"AUD-000169",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000024",
     "action":"STATE_TRANSITION",
@@ -1976,11 +2024,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-12T12:00:00",
-    "details":"Shift swap approved between EMP-000011 and EMP-000016."
+    "timestamp":"2026-02-15T12:00:00",
+    "details":"Shift swap approved between EMP-001180 and EMP-001280."
   },
   {
-    "audit_id":"AUD-000166",
+    "audit_id":"AUD-000170",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000025",
     "action":"STATE_TRANSITION",
@@ -1988,11 +2036,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-12T12:00:00",
-    "details":"Shift swap approved between EMP-000031 and EMP-000002."
+    "timestamp":"2026-03-31T12:00:00",
+    "details":"Shift swap approved between EMP-000793 and EMP-000094."
   },
   {
-    "audit_id":"AUD-000167",
+    "audit_id":"AUD-000171",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000026",
     "action":"STATE_TRANSITION",
@@ -2000,11 +2048,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-14T12:00:00",
-    "details":"Shift swap approved between EMP-000013 and EMP-000018."
+    "timestamp":"2026-03-22T12:00:00",
+    "details":"Shift swap approved between EMP-001220 and EMP-001320."
   },
   {
-    "audit_id":"AUD-000168",
+    "audit_id":"AUD-000172",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000027",
     "action":"STATE_TRANSITION",
@@ -2012,11 +2060,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-10T12:00:00",
-    "details":"Shift swap approved between EMP-000020 and EMP-000025."
+    "timestamp":"2026-03-01T12:00:00",
+    "details":"Shift swap approved between EMP-001442 and EMP-001542."
   },
   {
-    "audit_id":"AUD-000169",
+    "audit_id":"AUD-000173",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000028",
     "action":"STATE_TRANSITION",
@@ -2024,11 +2072,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-01T12:00:00",
-    "details":"Shift swap approved between EMP-000024 and EMP-000005."
+    "timestamp":"2026-02-08T12:00:00",
+    "details":"Shift swap approved between EMP-001093 and EMP-001193."
   },
   {
-    "audit_id":"AUD-000170",
+    "audit_id":"AUD-000174",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000029",
     "action":"STATE_TRANSITION",
@@ -2036,11 +2084,11 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-02T12:00:00",
-    "details":"Shift swap approved between EMP-000010 and EMP-000015."
+    "timestamp":"2026-01-05T12:00:00",
+    "details":"Shift swap approved between EMP-000369 and EMP-000469."
   },
   {
-    "audit_id":"AUD-000171",
+    "audit_id":"AUD-000175",
     "entity_name":"SwapRequest",
     "entity_id":"SWP-2026-000030",
     "action":"STATE_TRANSITION",
@@ -2048,7 +2096,7 @@
     "to_state":"MANAGER_APPROVED",
     "actor_id":"EMP-000001",
     "actor_role":"Manager",
-    "timestamp":"2026-01-06T12:00:00",
-    "details":"Shift swap approved between EMP-000035 and EMP-000045."
+    "timestamp":"2026-03-22T12:00:00",
+    "details":"Shift swap approved between EMP-001500 and EMP-000001."
   }
 ]

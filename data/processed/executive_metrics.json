@@ -1,0 +1,30 @@
+{
+  "coverage": {
+    "total_requirements": 45000,
+    "total_scheduled_slots": 72119,
+    "fulfillment_rate": 0.985,
+    "shortfall_shifts": 675
+  },
+  "fairness": {
+    "gini_index": 0.317,
+    "mean_hours": 323.22,
+    "std_dev_hours": 186.78,
+    "min_hours": 8.0,
+    "max_hours": 536.0
+  },
+  "overtime": {
+    "total_overtime_shifts": 0,
+    "overtime_rate": 0.0
+  },
+  "exceptions": {
+    "ground_truth_count": 75,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0
+  },
+  "attendance": {
+    "total_clock_events": 2000,
+    "reconciliation_rate": 0.978
+  },
+  "system_health_score": 89.9
+}

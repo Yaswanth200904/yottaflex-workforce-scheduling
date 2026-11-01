@@ -1,0 +1,246 @@
+{
+  "generator_command": "python scripts/run_generator.py --scale full --seed 20261022",
+  "seed": 20261022,
+  "scale": "full",
+  "tables": {
+    "teams": {
+      "row_count": 100,
+      "columns": [
+        "team_id",
+        "name",
+        "department",
+        "manager_emp_id",
+        "timezone",
+        "created_at"
+      ],
+      "csv_path": "data/csv/teams.csv",
+      "json_path": "data/json/teams.json",
+      "csv_sha256": "c4edb2462e705412f2a4a9a42ceb47717dd9deba9034c0d0d4f67ecf0979e7df",
+      "json_sha256": "f621f4721ac8c4c064ccd221221c2d8f0dc4d96d65131627b010636ab82851a4"
+    },
+    "skills": {
+      "row_count": 8,
+      "columns": [
+        "skill_id",
+        "name",
+        "category",
+        "description"
+      ],
+      "csv_path": "data/csv/skills.csv",
+      "json_path": "data/json/skills.json",
+      "csv_sha256": "1fd57f0ed7480b8695b2e05c45ce0a91e1587764799840bfc04f8c93aa9d4b20",
+      "json_sha256": "e15e22c54eb15e61dc6a1ef535271dd7992018eb46bbbd1e8fc1e19ca95eaa6d"
+    },
+    "shift_templates": {
+      "row_count": 3,
+      "columns": [
+        "shift_template_id",
+        "name",
+        "start_time",
+        "end_time",
+        "duration_hours",
+        "break_minutes",
+        "requires_handover"
+      ],
+      "csv_path": "data/csv/shift_templates.csv",
+      "json_path": "data/json/shift_templates.json",
+      "csv_sha256": "8aa38be84e5f31f87738e5b304902b2b6e6d8896a5a734f0c5214fc34517189c",
+      "json_sha256": "01c60992c6d35a254c915e1fde24586fe2942c900919f6ff6c1524fc8fda063b"
+    },
+    "holidays": {
+      "row_count": 6,
+      "columns": [
+        "holiday_id",
+        "date",
+        "name",
+        "jurisdiction",
+        "is_mandatory_off",
+        "premium_pay_multiplier"
+      ],
+      "csv_path": "data/csv/holidays.csv",
+      "json_path": "data/json/holidays.json",
+      "csv_sha256": "bff0340820a47b2ac0e32456166b8108ac29547283555454fd9ca0c7917c2e71",
+      "json_sha256": "451f4108220a9485d6105700967dfdf619784087b92f19aae5685caab5809e0f"
+    },
+    "employees": {
+      "row_count": 2000,
+      "columns": [
+        "emp_id",
+        "name",
+        "email",
+        "team_id",
+        "role",
+        "weekly_hours_cap",
+        "max_consecutive_days",
+        "hourly_rate",
+        "status",
+        "hire_date"
+      ],
+      "csv_path": "data/csv/employees.csv",
+      "json_path": "data/json/employees.json",
+      "csv_sha256": "18473afcaaea8fbbd9199bd383cbc6a2a9e575ca5cf9dbca369b5efd6c2bfd1f",
+      "json_sha256": "d114b99f2adf4b07578338934c85de988c1455d888a55be1c5e5c758dba654bf"
+    },
+    "employee_skills": {
+      "row_count": 6855,
+      "columns": [
+        "bridge_id",
+        "emp_id",
+        "skill_id",
+        "proficiency_level",
+        "certified_date",
+        "expiry_date"
+      ],
+      "csv_path": "data/csv/employee_skills.csv",
+      "json_path": "data/json/employee_skills.json",
+      "csv_sha256": "e43cfe07e37483f0b6ccc679c09adab091dd7b1e3afd6e339875ff3ce935ddd0",
+      "json_sha256": "476f6361639bee4fd13d97db011b70201cb70fc274d768dc0c2143c9613bf5e7"
+    },
+    "coverage_requirements": {
+      "row_count": 45000,
+      "columns": [
+        "requirement_id",
+        "team_id",
+        "shift_template_id",
+        "date",
+        "skill_id",
+        "min_headcount",
+        "target_headcount"
+      ],
+      "csv_path": "data/csv/coverage_requirements.csv",
+      "json_path": "data/json/coverage_requirements.json",
+      "csv_sha256": "79eea3792ec2f45caacc08100bef0d8ced7257228e934f22a884670ef112acdb",
+      "json_sha256": "6210702badb92f18b0147b2a17ef3e255d58dff0ed1cc039f540c0387a83a095"
+    },
+    "leave_requests": {
+      "row_count": 5015,
+      "columns": [
+        "leave_id",
+        "emp_id",
+        "leave_type",
+        "start_date",
+        "end_date",
+        "status",
+        "reason",
+        "approver_emp_id",
+        "submitted_at",
+        "decided_at"
+      ],
+      "csv_path": "data/csv/leave_requests.csv",
+      "json_path": "data/json/leave_requests.json",
+      "csv_sha256": "45e4e3d5b96686cb468c4ea4ec2be612f0858cca75e51bb7342f15ea0678c742",
+      "json_sha256": "a0fcac7d7862217c7486be2228a67df9b2c09556f84e1932f75e32f7daf72192"
+    },
+    "shift_assignments": {
+      "row_count": 72119,
+      "columns": [
+        "assignment_id",
+        "date",
+        "shift_template_id",
+        "emp_id",
+        "team_id",
+        "assigned_skill_id",
+        "status",
+        "scheduled_hours",
+        "is_overtime",
+        "created_at"
+      ],
+      "csv_path": "data/csv/shift_assignments.csv",
+      "json_path": "data/json/shift_assignments.json",
+      "csv_sha256": "f395bfd6935a5bdcb0261167b34bd888e6392062ea2d8893b67036af3a9ce098",
+      "json_sha256": "e454dca2dbdf67b3059023faf2fca255c73aa4c12798c8f8d724fc7319f90120"
+    },
+    "attendance_events": {
+      "row_count": 2000,
+      "columns": [
+        "event_id",
+        "emp_id",
+        "assignment_id",
+        "event_type",
+        "timestamp",
+        "location_verified",
+        "source"
+      ],
+      "csv_path": "data/csv/attendance_events.csv",
+      "json_path": "data/json/attendance_events.json",
+      "csv_sha256": "11d7d30f6b6e74cf610700ff899fb56defacd29995cce68c2b6edcd66629a774",
+      "json_sha256": "9ca1affc25bd3420eaaaa6325ef36c7e6f3a16ef891ea7c65266e54ae265bab5"
+    },
+    "swap_requests": {
+      "row_count": 415,
+      "columns": [
+        "swap_id",
+        "requester_emp_id",
+        "requester_assignment_id",
+        "target_emp_id",
+        "target_assignment_id",
+        "reason",
+        "status",
+        "approver_manager_id",
+        "requested_at",
+        "decided_at"
+      ],
+      "csv_path": "data/csv/swap_requests.csv",
+      "json_path": "data/json/swap_requests.json",
+      "csv_sha256": "5f835fd819dd1970612fff3d2d7b2d29318e61cac843efe497afb1f676322531",
+      "json_sha256": "d158d4b1bbe37ddb449767b7ae312e807acd8bd5a5a20ae4635df63a18a1384c"
+    },
+    "audit_events": {
+      "row_count": 175,
+      "columns": [
+        "audit_id",
+        "entity_name",
+        "entity_id",
+        "action",
+        "from_state",
+        "to_state",
+        "actor_id",
+        "actor_role",
+        "timestamp",
+        "details"
+      ],
+      "csv_path": "data/csv/audit_events.csv",
+      "json_path": "data/json/audit_events.json",
+      "csv_sha256": "6923c769fb849ad6c82206e48dc2604484fca603aee56b4852b6ff90ebbbe715",
+      "json_sha256": "e03d216d79876d2bbb063bb263dfa227eea79596b1d0ac71a38952954a95df9e"
+    },
+    "ground_truth": {
+      "row_count": 75,
+      "columns": [
+        "ground_truth_id",
+        "entity_type",
+        "entity_id",
+        "anomaly_type",
+        "description",
+        "field_affected",
+        "raw_value",
+        "expected_clean_value",
+        "detection_rule",
+        "flagged_at"
+      ],
+      "csv_path": "data/csv/ground_truth.csv",
+      "json_path": "data/json/ground_truth.json",
+      "csv_sha256": "5a0e4b6db33ad1e79db58ae3bd45eb348b4ec2e7da890a48d882afb61e78ebc2",
+      "json_sha256": "ca2be60d5055d1f7273ec8fd277aa821d29b68e013ef6dac49d588e526dee5c1"
+    }
+  },
+  "database_artifacts": {
+    "sqlite_database": {
+      "path": "data/database.sqlite",
+      "sha256": "4d3a3e3ff7ec675461536a7ff586d008bc0e25bbcc8838aa3d92dc815ff1f34d"
+    },
+    "sql_schema": {
+      "path": "data/sql/schema.sql",
+      "sha256": "16a405a7408af909ed1ad09c6b09317956d7c2af4eca5b3299cf0740de23b148"
+    },
+    "sql_seed_data": {
+      "path": "data/sql/seed_data.sql",
+      "sha256": "77ef29f1280e4e91327bde8a879f34ee8dbd4636422f2083e7eda0aa0ab88f66"
+    }
+  },
+  "validation_summary": {
+    "passed": true,
+    "error_count": 0,
+    "warning_count": 2
+  }
+}

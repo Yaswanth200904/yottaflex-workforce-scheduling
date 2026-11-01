@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "error_count": 0,
+  "warning_count": 2,
+  "errors": [],
+  "warnings": [
+    {
+      "rule": "LIFECYCLE_TRANSITION_ANOMALY",
+      "table": "swap_requests",
+      "field": "status,approver_manager_id",
+      "message": "Detected 15 swap requests marked EXECUTED without manager approval signature.",
+      "sample_keys": [
+        "SWP-2026-800001",
+        "SWP-2026-800002",
+        "SWP-2026-800003"
+      ]
+    },
+    {
+      "rule": "DOUBLE_BOOKING_ANOMALY",
+      "table": "shift_assignments",
+      "field": "emp_id,date",
+      "message": "Detected 30 shift assignment records with overlapping double-booking on the same day.",
+      "sample_employees": [
+        "EMP-000404",
+        "EMP-000253",
+        "EMP-000622"
+      ]
+    }
+  ],
+  "timestamp": "2026-11-01T13:25:13.992244+00:00"
+}
